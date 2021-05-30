@@ -1,5 +1,5 @@
-INDIGO_WELCOME_MESSAGE: "The place for all your online learning"
-INDIGO_PRIMARY_COLOR: "#3b85ff" # cool blue
+INDIGO_WELCOME_MESSAGE: "Powered by Web Alliance for Regreening in Africa (W4RA.org)"
+INDIGO_PRIMARY_COLOR: "#167231" # W4RA green
 
 # Footer links are dictionaries with a "title" and "url"
 # To remove all links, write:
